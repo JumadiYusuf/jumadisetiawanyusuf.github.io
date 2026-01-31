@@ -110,7 +110,7 @@ export function Contact() {
               <div>
                 <div className="text-xs text-slate-500">LinkedIn</div>
                 <div className="text-sm font-medium text-slate-900">
-                  https://www.linkedin.com/in/jumadi-setiawan-yusuf-276b99378/
+               https://www.linkedin.com/in/jumadi-setiawan-yusuf-276b99378/
                 </div>
               </div>
             </a>
