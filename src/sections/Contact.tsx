@@ -83,7 +83,7 @@ export function Contact() {
               <div>
                 <div className="text-xs text-slate-500">Email</div>
                 <div className="text-sm font-medium text-slate-900">
-                  jumadi.setiawan@email.com
+                  jumadisetiawanyusuf@gmail.com
                 </div>
               </div>
             </a>
