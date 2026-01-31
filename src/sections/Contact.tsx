@@ -105,12 +105,12 @@ export function Contact() {
               className="flex items-center gap-4 p-4 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow"
             >
               <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary">
-                <Linkedin className="w-5 h-5" /> sasa
+                <Linkedin className="w-5 h-5" /> 
               </div>
               <div>
                 <div className="text-xs text-slate-500">LinkedIn</div>
                 <div className="text-sm font-medium text-slate-900">
-                  Connect with me
+                  https://www.linkedin.com/in/jumadi-setiawan-yusuf-276b99378/
                 </div>
               </div>
             </a>
