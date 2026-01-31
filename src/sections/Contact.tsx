@@ -74,7 +74,7 @@ export function Contact() {
           {/* Contact Info */}
           <div className="space-y-4">
             <a
-              href="mailto:jumadi.setiawan@email.com"
+              href="mailto:jumadisetiawanyusuf@gmail.com"
               className="flex items-center gap-4 p-4 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow"
             >
               <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary">
@@ -105,7 +105,7 @@ export function Contact() {
               className="flex items-center gap-4 p-4 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow"
             >
               <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary">
-                <Linkedin className="w-5 h-5" />
+                <Linkedin className="w-5 h-5" /> sasa
               </div>
               <div>
                 <div className="text-xs text-slate-500">LinkedIn</div>
